@@ -1,5 +1,4 @@
 # Cassandra-stress using Docker container 
-# Eksperimentalni rad
 
 ## 1. Preuzimanje Cassandra slike
 
