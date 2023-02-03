@@ -1,5 +1,3 @@
-# Docker
-
 # Cassandra-stress using Docker container 
 # Eksperimentalni rad
 
