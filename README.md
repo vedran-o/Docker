@@ -7,8 +7,6 @@ title: UMS - Eksperimentalni rad
 author: Vedran Orešković
 ---
 
-{%hackmd @themes/orangeheart %}
-
 # Eksperimentalni rad
 
 ## 1. Preuzimanje Cassandra slike
