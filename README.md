@@ -1,12 +1,6 @@
 # Docker
 
-Cassandra-stress using Docker container 
-
----
-title: UMS - Eksperimentalni rad
-author: Vedran Orešković
----
-
+# Cassandra-stress using Docker container 
 # Eksperimentalni rad
 
 ## 1. Preuzimanje Cassandra slike
